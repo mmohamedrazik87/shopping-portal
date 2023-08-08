@@ -4,7 +4,7 @@ pipeline{
 
 // uncomment the following lines by removing /* and */ to enable
     tools{
-       jodejs 'nodejs' 
+       nodejs 'nodejs' 
     }
     
 
@@ -40,3 +40,4 @@ pipeline{
     }
     
 }
+
